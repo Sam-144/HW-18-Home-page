@@ -1,5 +1,5 @@
 body {
-    background-image: url(/Images/BG.png);
+    background-image: url(../Images/BG.png);
 }
 #navbar {
     display: flex;
@@ -18,7 +18,7 @@ body {
     font-family: Righteous;
 }
 .Hero {
-    background-image: url(/Images/Hero.png);
+    background-image: url(../Images/Hero.png);
     width: 100%;
     height: 707px;
     display: grid;
@@ -194,7 +194,7 @@ h4 {
 .oysters {
     width: 363px;
     grid-area: oysters;
-    background-image: url(/Images/Oysters.png);
+    background-image: url(../Images/Oysters.png);
     background-repeat: no-repeat;
     text-align: center;
     justify-self: center;
@@ -202,7 +202,7 @@ h4 {
 .chicken {
     width: 363px;
     grid-area: chicken;
-    background-image: url(/Images/Chicken\ Fried\ Steak.png);
+    background-image: url(../Images/Chicken\ Fried\ Steak.png);
     background-repeat: no-repeat;
     text-align: center;
     justify-self: center;
@@ -210,7 +210,7 @@ h4 {
 .drink {
     width: 363px;
     grid-area: drink;
-    background-image: url(/Images/IMG_4566\ 2.png);
+    background-image: url(../Images/IMG_4566\ 2.png);
     background-repeat: no-repeat;
     text-align: center;
     justify-self: center;
